@@ -1,0 +1,7 @@
+{
+  "name": "INFTOR",
+  "version": "1.0.0",
+  "dependencies": {
+    "fs-extra": "^10.0.0"
+  }
+}
